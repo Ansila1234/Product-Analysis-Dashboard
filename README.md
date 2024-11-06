@@ -85,6 +85,8 @@ This dashboard has several potential use cases:
 + Marketing and Sales Teams: Quickly identify high-performing products that can be promoted, as well as low-performing products that may require additional support or marketing efforts.
 + Consumers: With the direct shopping links, consumers can use the dashboard to identify high-value deals and make informed purchase decisions.
 
+### Link To Dashboard https://www.linkedin.com/posts/ansila-s-813324309_data-datavisualization-powerbi-activity-7252010219247943682-WDiS?utm_source=share&utm_medium=member_desktop
+
 ## Future Enhancements
 
 + Real-Time Data Integration: Future versions of this dashboard could incorporate real-time data streams, enabling businesses to track product performance in real-time, such as live sales data, real-time price updates, and customer review trends.
