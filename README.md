@@ -4,6 +4,8 @@
 # 🛠️ Product Analysis Dashboard Using Power BI
 ## Overview
 
+[Link To Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmZiZjljZTUtY2QyOS00Njc0LWE5YjQtN2E2ZTNjMzk4ZGVmIiwidCI6ImU5ODE4OTYxLTJkN2QtNGMwYS05ZGQ1LTI1MmRiYmM2ZWNkZiJ9)
+
 This repository presents a fully interactive and highly detailed Product Analysis Dashboard built using Power BI, designed to extract, visualize, and provide actionable insights from large datasets. The dashboard leverages real-world data from e-commerce platforms, analyzing product ratings, pricing trends, discount percentages, and customer reviews across multiple categories.
 
 The project aims to demonstrate how businesses and data professionals can harness the power of data visualization and analytics to optimize product offerings, enhance customer satisfaction, and make informed decisions. By utilizing the dynamic filtering capabilities and Q&A feature of Power BI, users can engage with the data in a user-friendly manner, even if they have no technical background.
@@ -85,7 +87,7 @@ This dashboard has several potential use cases:
 + Marketing and Sales Teams: Quickly identify high-performing products that can be promoted, as well as low-performing products that may require additional support or marketing efforts.
 + Consumers: With the direct shopping links, consumers can use the dashboard to identify high-value deals and make informed purchase decisions.
 
-### Link To Dashboard https://www.linkedin.com/posts/ansila-s-813324309_data-datavisualization-powerbi-activity-7252010219247943682-WDiS?utm_source=share&utm_medium=member_desktop
+ [LinkedIn](https://www.linkedin.com/posts/ansila-s-813324309_data-datavisualization-powerbi-activity-7252010219247943682-WDiS?utm_source=share&utm_medium=member_desktop)
 
 ## Future Enhancements
 
