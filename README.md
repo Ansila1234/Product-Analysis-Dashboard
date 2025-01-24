@@ -4,8 +4,6 @@
 # 🛠️ Product Analysis Dashboard Using Power BI
 ## Overview
 
-[Link To Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmZiZjljZTUtY2QyOS00Njc0LWE5YjQtN2E2ZTNjMzk4ZGVmIiwidCI6ImU5ODE4OTYxLTJkN2QtNGMwYS05ZGQ1LTI1MmRiYmM2ZWNkZiJ9)
-
 This repository presents a fully interactive and highly detailed Product Analysis Dashboard built using Power BI, designed to extract, visualize, and provide actionable insights from large datasets. The dashboard leverages real-world data from e-commerce platforms, analyzing product ratings, pricing trends, discount percentages, and customer reviews across multiple categories.
 
 The project aims to demonstrate how businesses and data professionals can harness the power of data visualization and analytics to optimize product offerings, enhance customer satisfaction, and make informed decisions. By utilizing the dynamic filtering capabilities and Q&A feature of Power BI, users can engage with the data in a user-friendly manner, even if they have no technical background.
